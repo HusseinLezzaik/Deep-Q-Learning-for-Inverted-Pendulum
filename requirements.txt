@@ -1,0 +1,7 @@
+torch
+numpy 
+scipy
+gym
+keras
+tensorflow
+matplotlib
