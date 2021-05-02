@@ -1,4 +1,4 @@
-# Deep-Q-Learning-for-Inverted-Pendulum
+# Deep Q-Learning for Inverted Pendulum
 Implemented Q-Learning and Deep Q-Learning to learn a controller that balances an Inverted Pendulum. The Reinforcement Learning simulation enviroment used for the agent i.e the Inverted Pendulum is Gym from OpenAI. And it learned how to change its action upon each observation to maximize it's reward, which is in this case to balance the rod.
 
 ## Overview of the Repository
